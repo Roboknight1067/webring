@@ -13,5 +13,11 @@
         "title": "Benjamin Chait",
         "url": "https://benjaminchait.net",
         "feed": "https://benjaminchait.net/feed.xml"
-    }
+    },
+
+    {
+        "title": "RobotKnight",
+        "url": "https://robotknight.nekoweb.org/index.html",
+        "feed": "https://robotknight.nekoweb.org/index.html/feed.xml"
+    },
 ]
